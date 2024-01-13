@@ -6,8 +6,7 @@ I'm Eric from Kenya and I am a professional Software Engineer. I really enjoy le
 
 ### Skills:
 ----
-- C#![ElmoFireGIF](https://github.com/KariukiEric/KariukiEric/assets/156504049/8ffc5c1b-7be5-411c-bd14-c3039969da39)
-
+- C#
 - Python
 - HTML, CSS, Javascript
 - SQL
