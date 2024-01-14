@@ -23,11 +23,11 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 - Android :robot:
 - Open source :octocat:
-  <img width="10" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" />
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure" />
-  <img src="https://skillicons.dev/icons?i=py,go" />
-  <img src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql" />
-  <img src="https://skillicons.dev/icons?i=postman,figma" />
+  <img width="250" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" />
+  <img width="250" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure" />
+  <img width="250" src="https://skillicons.dev/icons?i=py,go" />
+  <img width="250" src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql" />
+  <img width="250" src="https://skillicons.dev/icons?i=postman,figma" />
 
 ## Get in touch :coffee:
 
