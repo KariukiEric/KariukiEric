@@ -20,7 +20,7 @@
   
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" />
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure" />
-  <img src="https://skillicons.dev/icons?i=java,kotlin,py,go" />
+  <img src="https://skillicons.dev/icons?i=py,go" />
   <img src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql" />
   <img src="https://skillicons.dev/icons?i=postman,figma" />
 
