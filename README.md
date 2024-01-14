@@ -31,6 +31,8 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 <img width="auto" height="35" src="https://skillicons.dev/icons?i=postman,figma" alt="Misc" />
 
+[![My Skills]([BASE_URL]?i=react,node.js,docker,mongodb,postgresql,awslambda,adobexd,angular)]
+
 ## Get in touch :coffee:
 
 - Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/KariukiEric).
