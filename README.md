@@ -63,6 +63,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 <div>
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/sqlserver.svg" alt="sqlserver" />
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/postgresql.svg" alt="postgresql" />
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/redis.svg" alt="redis" />
 </div>
 
 
@@ -71,8 +72,6 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 
 
-
-<img width="auto" height="25" src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql" alt="Backend" />
 
 <img width="auto" height="25" style="border: 3px solid gray;" src="https://skillicons.dev/icons?i=postman,figma" alt="Misc" />
 
