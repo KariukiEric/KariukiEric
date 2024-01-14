@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="40" alt="fsharp logo"  />
 
-  [![My Skills](https://skillicons.dev/icons?i=html,caa,javascript,typescript,angular,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular,azure,cs,dotnet,visualstudio,go,docker,linux,postgres,postman,py,figma&theme=light)](https://skillicons.dev)
 </div>
 
 ###
