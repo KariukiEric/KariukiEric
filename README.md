@@ -21,7 +21,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 ## I code with
 
-<img src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/sqlserver.svg" alt="Server"/>
+<img width="auto" height="25" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/sqlserver.svg" alt="Server"/>
 
 <img width="auto" height="25" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" alt="Frontend"/>
 
