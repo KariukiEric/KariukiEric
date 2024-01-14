@@ -13,13 +13,13 @@ I'm Eric Kariuki. A Google Developer Expert on Android. An Android Engineer at [
 
 I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
 
-
 ## Things I am passionate about
 
 - Android :robot:
 - Open source :octocat:
 
 ## I code with
+
 but not limited to...
 
 <div>
