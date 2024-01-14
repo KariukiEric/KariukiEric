@@ -21,14 +21,15 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 ## I code with
 
-<img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/html.svg" alt="html"/>
-<img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/css.svg" alt="css"/>
-<img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/tailwind.svg" alt="tailwind"/>
-<img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/bootstrap.svg" alt="bootsrap"/>
-<img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/javascript.svg" alt="javascript"/>
-<img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/typescript.svg" alt="typescript"/>
-<img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/angular.svg" alt="angular"/>
-
+<div height="45">
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/html.svg" alt="html"/>
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/css.svg" alt="css"/>
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/tailwind.svg" alt="tailwind"/>
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/bootstrap.svg" alt="bootsrap"/>
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/javascript.svg" alt="javascript"/>
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/typescript.svg" alt="typescript"/>
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/angular.svg" alt="angular"/>
+</div>
 
 <img width="auto" height="25" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons?i=html.svg,css,tailwind,bootstrap,javascript,typescript,angular" alt="Frontend"/>
 
