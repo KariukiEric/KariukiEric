@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+I'm Eric Kariuki. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
 
 I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
 
@@ -23,7 +23,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 - Android :robot:
 - Open source :octocat:
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" />
+  <img width="10" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" />
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure" />
   <img src="https://skillicons.dev/icons?i=py,go" />
   <img src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql" />
