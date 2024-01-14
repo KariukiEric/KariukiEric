@@ -60,7 +60,12 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 </div>
 
 
-<img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/sqlserver.svg" alt="Server"/>
+<div>
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/sqlserver.svg" alt="sqlserver" />
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/postgresql.svg" alt="postgresql" />
+</div>
+
+
 
 
 
