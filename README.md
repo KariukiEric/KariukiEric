@@ -21,9 +21,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 ## I code with
 
-<!--<img width="auto" height="35" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" alt="Frontend"/> -->
-
-<img width="auto" height="35" src="https://simpleskill.icons.workers.dev/svg?i=html,css,tailwind,bootstrap,javascript,typescript,angular" alt="Frontend"/>
+<img width="auto" height="35" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" alt="Frontend"/>
 
 <img width="auto" height="35" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure" alt="Backend"/>
 
