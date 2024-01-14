@@ -19,7 +19,8 @@
 ###
 
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular,azure,cs,dotnet,visualstudio,go,docker,linux,postgres,postman,py,figma&theme=light)]
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular,azure,cs,dotnet,visualstudio,go,docker,linux,postgres,postman,py,figma&theme=light)][]
+  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
 
 
 ###
