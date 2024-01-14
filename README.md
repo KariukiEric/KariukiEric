@@ -29,7 +29,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 <img width="auto" height="25" src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql" alt="Backend" />
 
-<img width="auto" height="25" src="https://skillicons.dev/icons?i=postman,figma" alt="Misc" />
+<img width="auto" height="25" style="border: 3px solid gray;" src="https://skillicons.dev/icons?i=postman,figma" alt="Misc" />
 
 
 
