@@ -31,7 +31,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 <img width="auto" height="35" src="https://skillicons.dev/icons?i=postman,figma" alt="Misc" />
 
-<img src="[https://simpleskill.icons.workers.dev/svg]?i=react,node.js,docker,mongodb,postgresql,awslambda" />
+<img src="https://simpleskill.icons.workers.dev/svg?i=react,node.js,docker,mongodb,postgresql,awslambda" />
 
 ## Get in touch :coffee:
 
