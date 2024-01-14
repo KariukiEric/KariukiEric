@@ -31,7 +31,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
   ![Alt text](https://skillicons.dev/icons?i=postman,figma "Misc")
 
-  ![Alt text](https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/csharp.svg "C#")
+<img src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/csharp.svg" alt="C#"/>
 
 ## Get in touch :coffee:
 
