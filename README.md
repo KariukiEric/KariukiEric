@@ -1,60 +1,10 @@
-<h2 align="left">Hey 👋 What's up?</h2>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-  
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" />
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure" />
-  <img src="https://skillicons.dev/icons?i=py,go" />
-  <img src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql" />
-  <img src="https://skillicons.dev/icons?i=postman,figma" />
-
-###
-
-<h2 align="left">Reach out</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=KariukiEric&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&link=https://twitter.com/jonathangin52)](https://twitter.com/jonathangin52)" height="20" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=KariukiEric&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
-
-  [![Twitter Badge](https://img.shields.io/badge/-@JonathanGin52-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KariukiEric)](https://twitter.com/KariukiEric) [![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/ke/KariukiEric/)](https://www.linkedin.com/ke/KariukiEric/)
-</div>
-
-###
-
-
-
-
-
-
-
-
-
-
 # Hey there :wave:
 
 <img src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/KariukiEric/count.svg" />
 </p>
 
 ## About me
@@ -68,6 +18,16 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 - Android :robot:
 - Open source :octocat:
+
+## I code with
+
+- Android :robot:
+- Open source :octocat:
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure" />
+  <img src="https://skillicons.dev/icons?i=py,go" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postman,figma" />
 
 ## Get in touch :coffee:
 
