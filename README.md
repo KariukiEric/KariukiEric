@@ -50,7 +50,7 @@
 
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
@@ -71,9 +71,9 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
+- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/KariukiEric).
+- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@KariukiEric).
+- Your future employee on [LinkedIn](https://www.linkedin.com/ke/KariukiEric)
 - And of course GitHub you're already on (Recursion).
 
 
