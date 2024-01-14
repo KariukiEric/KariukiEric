@@ -22,9 +22,13 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 ## I code with
 
   ![Alt text](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular "Frontend")
+
   ![Alt text](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure "Backend")
+
   ![Alt text](https://skillicons.dev/icons?i=py,go "Backend")
+
   ![Alt text](https://skillicons.dev/icons?i=linux,docker,postgres,mysql "Backend")
+
   ![Alt text](https://skillicons.dev/icons?i=postman,figma "Misc")
 
 ## Get in touch :coffee:
