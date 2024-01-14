@@ -31,6 +31,11 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/bootstrap.svg" alt="bootsrap"/>
 
+<img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/javascript.svg" alt="javascript"/>
+
+<img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/typescript.svg" alt="typescript"/>
+
+
 
 <img width="auto" height="25" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" alt="Frontend"/>
 
