@@ -46,13 +46,18 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 </div>
 
 
+<div>
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/python.svg" alt="python" />
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/go.svg" alt="go" />
+</div>
+
+
 <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/sqlserver.svg" alt="Server"/>
 
 
 
 
 
-<img width="auto" height="25" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure" alt="Backend"/>
 
 <img width="auto" height="25" src="https://skillicons.dev/icons?i=py,go" alt="Backend"/>
 
