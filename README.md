@@ -31,8 +31,8 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&link=https://twitter.com/jonathangin52)](https://twitter.com/jonathangin52)" height="20" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=KariukiEric&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&link=https://twitter.com/jonathangin52)](https://twitter.com/jonathangin52)" height="20" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=KariukiEric&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
 
   [![Twitter Badge](https://img.shields.io/badge/-@JonathanGin52-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KariukiEric)](https://twitter.com/KariukiEric) [![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/ke/KariukiEric/)](https://www.linkedin.com/ke/KariukiEric/)
 </div>
