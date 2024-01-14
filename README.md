@@ -29,6 +29,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/javascript.svg" alt="javascript"/>
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/typescript.svg" alt="typescript"/>
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/angular.svg" alt="angular"/>
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/figma.svg" alt="figma" />
 </div>
 
 <div>
@@ -59,7 +60,6 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 <div>
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/postman.svg" alt="postman" />
-  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/figma.svg" alt="figma" />
 </div>
 
 ## Get in touch :coffee:
