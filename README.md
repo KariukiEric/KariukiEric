@@ -21,13 +21,18 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 ## I code with
 
-- Android :robot:
+- C# :csharp:
 - Open source :octocat:
+
   <img width="250" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" />
   <img width="250" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure" />
   <img width="250" src="https://skillicons.dev/icons?i=py,go" />
   <img width="250" src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql" />
   <img width="250" src="https://skillicons.dev/icons?i=postman,figma" />
+
+  !image{: width="500" height="400"}
+  ![Alt text](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular "a title")
+
 
 ## Get in touch :coffee:
 
