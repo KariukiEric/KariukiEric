@@ -52,6 +52,14 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 </div>
 
 
+
+<div>
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/windows.svg" alt="windows" />
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/linux.svg" alt="linux" />
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/docker.svg" alt="docker" />
+</div>
+
+
 <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/sqlserver.svg" alt="Server"/>
 
 
