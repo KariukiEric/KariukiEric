@@ -30,8 +30,12 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
   <img width="250" src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql" />
   <img width="250" src="https://skillicons.dev/icons?i=postman,figma" />
 
-  !image{: width="500" height="400"}
-  ![Alt text](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular "a title")
+  !image{: src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" width="500" height="400"}
+  ![Alt text](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular "Frontend")
+  ![Alt text](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure "Backend")
+  ![Alt text](https://skillicons.dev/icons?i=py,go "Backend")
+  ![Alt text](https://skillicons.dev/icons?i=linux,docker,postgres,mysql "Backend")
+  ![Alt text](https://skillicons.dev/icons?i=postman,figma "Misc")
 
 
 ## Get in touch :coffee:
