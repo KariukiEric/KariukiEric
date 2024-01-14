@@ -30,7 +30,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/angular.svg" alt="angular"/>
 
 
-<img width="auto" height="25" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" alt="Frontend"/>
+<img width="auto" height="25" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons?i=html.svg,css,tailwind,bootstrap,javascript,typescript,angular" alt="Frontend"/>
 
 
 <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/sqlserver.svg" alt="Server"/>
