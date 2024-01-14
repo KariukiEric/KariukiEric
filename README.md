@@ -32,6 +32,20 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 </div>
 
 
+<div>
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/csharp.svg" alt="csharp" />
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/dotnet.svg" alt="dotnet" />
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/nuget.svg" alt="nuget" />
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/azure.svg" alt="azure" />
+</div>
+
+
+<div>
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/visual-studio.svg" alt="visual-studio" />
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/visual-studio-code.svg" alt="visual-studio-code" />
+</div>
+
+
 <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/sqlserver.svg" alt="Server"/>
 
 
