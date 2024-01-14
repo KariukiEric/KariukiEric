@@ -20,7 +20,12 @@
 
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular,azure,cs,dotnet,visualstudio,go,docker,linux,postgres,postman,py,figma&theme=light)][]
-  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+  
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,py,go" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postman,figma" />
 
 
 ###
