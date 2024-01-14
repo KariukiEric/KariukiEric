@@ -31,7 +31,6 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/angular.svg" alt="angular"/>
 </div>
 
-
 <div>
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/csharp.svg" alt="csharp" />
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/dotnet.svg" alt="dotnet" />
@@ -39,19 +38,15 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/azure.svg" alt="azure" />
 </div>
 
-
 <div>
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/visual-studio.svg" alt="visual-studio" />
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/visual-studio-code.svg" alt="visual-studio-code" />
 </div>
 
-
 <div>
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/python.svg" alt="python" />
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/go.svg" alt="go" />
 </div>
-
-
 
 <div>
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/windows.svg" alt="windows" />
@@ -59,23 +54,16 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/docker.svg" alt="docker" />
 </div>
 
-
 <div>
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/sqlserver.svg" alt="sqlserver" />
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/postgresql.svg" alt="postgresql" />
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/redis.svg" alt="redis" />
 </div>
 
-
-
-
-
-
-
-
-<img width="auto" height="25" style="border: 3px solid gray;" src="https://skillicons.dev/icons?i=postman,figma" alt="Misc" />
-
-
+<div>
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/postman.svg" alt="postman" />
+  <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/figma.svg" alt="figma" />
+</div>
 
 ## Get in touch :coffee:
 
