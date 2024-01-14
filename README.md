@@ -20,7 +20,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 - Open source :octocat:
 
 ## I code with
-but not limited to
+but not limited to...
 
 <div>
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/html.svg" alt="html"/>
