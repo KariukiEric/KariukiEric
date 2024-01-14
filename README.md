@@ -21,15 +21,15 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 ## I code with
 
-<img width="auto" height="35" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" alt="Frontend"/>
+<img width="auto" height="25" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,angular" alt="Frontend"/>
 
-<img width="auto" height="35" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure" alt="Backend"/>
+<img width="auto" height="25" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure" alt="Backend"/>
 
-<img width="auto" height="35" src="https://skillicons.dev/icons?i=py,go" alt="Backend"/>
+<img width="auto" height="25" src="https://skillicons.dev/icons?i=py,go" alt="Backend"/>
 
-<img width="auto" height="35" src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql" alt="Backend" />
+<img width="auto" height="25" src="https://skillicons.dev/icons?i=linux,docker,postgres,mysql" alt="Backend" />
 
-<img width="auto" height="35" src="https://skillicons.dev/icons?i=postman,figma" alt="Misc" />
+<img width="auto" height="25" src="https://skillicons.dev/icons?i=postman,figma" alt="Misc" />
 
 
 
