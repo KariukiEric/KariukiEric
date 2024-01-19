@@ -62,7 +62,7 @@ but not limited to...
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/KariukiEric).
+- Your future buddy to discuss .NET Core related things and tech in general on [Twitter](https://twitter.com/KariukiEric).
 - Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@KariukiEric).
 - Your future employee on [LinkedIn](https://www.linkedin.com/ke/KariukiEric)
 - And of course GitHub you're already on (Recursion).
