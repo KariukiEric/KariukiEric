@@ -9,9 +9,9 @@
 
 ## About me
 
-I'm Eric Kariuki. A .Net Developer Expert on .NETCore. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+I'm Eric Kariuki. A C# .Net Developer Expert on .NETCore. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
 
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
+I ocassionally blog and tweet about .Net. Also open sourced few android related stuff.  
 
 ## Things I am passionate about
 
