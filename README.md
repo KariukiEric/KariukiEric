@@ -21,7 +21,7 @@ I ocassionally blog and tweet about .Net and C#. Also open sourced few android r
 
 ## I code with
 
-but not limited to...
+but not limited to....
 
 <div>
   <img width="auto" height="45" src="https://raw.githubusercontent.com/KariukiEric/KariukiEric/master/resources/icons/html.svg" alt="html"/>
