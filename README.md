@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Place your GitKoi whale image here -->
-  <img src="koi/koi.gif" width="256" alt="My koi" />
+  <img src="koi/koi.gif" width="512" alt="My koi" />
 </p>
 
 ---
