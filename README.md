@@ -34,6 +34,6 @@ and performance.
 
 ---
 
-<p align="left">
-  <i style="color:#000;">Still learning. Always building.</i>
+<p align="left" style="color:#000;">
+  <i>Still learning. Always building.</i>
 </p>
