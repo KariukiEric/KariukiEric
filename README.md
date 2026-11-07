@@ -6,7 +6,7 @@
 
 ----
 
-#### `$ whoami`
+`$ whoami`
 
 Computer science student interested in systems programming, 
 high-performance computing, and software engineering.
@@ -15,7 +15,7 @@ I enjoy exploring the intersection of software, hardware,
 and performance.
 
 
-#### `$ currently_learning`
+`$ currently_learning`
 
 - C & C++ — Systems programming and performance
 - Rust & Go — Modern systems and backend development
@@ -23,12 +23,12 @@ and performance.
 - Computer architecture and digital design
 
 
-#### `$ technologies`
+`$ technologies`
 
 `C` `C++` `Rust` `Go` `Python` `C#` `Linux` `Git` `CMake`
 
 
-#### `$ philosophy`
+`$ philosophy`
 
 > Understand the fundamentals. Build things. Break things. Learn.
 
