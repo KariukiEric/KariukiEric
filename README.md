@@ -37,13 +37,3 @@ and performance.
 <p align="center">
   <i>Still learning. Always building.</i>
 </p>
-
-Understand the fundamentals.
-Build things. Break things. Learn.
-
----
-
-<p align="center">
-  <i>$ echo "Still learning. Always building."</i>
-</p>
-
