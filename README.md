@@ -5,6 +5,7 @@
 </p>
 
 ----
+<hr style="border-top: 1px dashed #888;">
 
 `$ whoami`
 
@@ -33,6 +34,7 @@ and performance.
 > Understand the fundamentals. Build things. Break things. Learn.
 
 ---
+<hr style="border-top: 1px dashed #888;">
 
 <p align="center">
   <i>Still learning. Always building.</i>
