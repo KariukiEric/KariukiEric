@@ -1,12 +1,7 @@
-<h1 align="center">Hey, I'm Eric 👋</h1>
+<h1 align="left">Hey, I'm Eric 👋</h1>
 
-<p align="center">
+<p align="left">
   <i>Building things, understanding how they work, and making them better.</i>
-</p>
-
-<p align="center">
-  <!-- Place your GitKoi whale image here -->
-  <img src="koi/koi.gif" width="512" alt="My koi" />
 </p>
 
 ---
