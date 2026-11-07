@@ -17,10 +17,10 @@ and performance.
 
 `$ currently_learning`
 
-> C & C++ — Systems programming and performance
-> Rust & Go — Modern systems and backend development
-> Linux, compilers & parallel computing
-> Computer architecture and digital design
+- > C & C++ — Systems programming and performance
+- > Rust & Go — Modern systems and backend development
+- > Linux, compilers & parallel computing
+- > Computer architecture and digital design
 
 
 `$ technologies`
